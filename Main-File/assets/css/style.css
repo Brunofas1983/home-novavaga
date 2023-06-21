@@ -156,6 +156,10 @@ Global Area
 
 }
 
+html {
+  overflow-x: hidden;
+}
+
 /*-------------------*/
 
 

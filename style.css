@@ -154,15 +154,10 @@ Global Area
   text-align: left;
 }
 
-body, html {
+html {
   overflow-x: hidden;
 }
 
-}
-
-
-body, html {
-  overflow-x: hidden;
 }
 
 /*-------------------*/
